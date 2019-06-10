@@ -14,4 +14,26 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>background_images</name>
+			<type>2</type>
+			<location>C:/Users/atara/git/arkanoid/ass6/background_images</location>
+		</link>
+		<link>
+			<name>block_images</name>
+			<type>2</type>
+			<location>C:/Users/atara/git/arkanoid/ass6/block_images</location>
+		</link>
+		<link>
+			<name>definitions</name>
+			<type>2</type>
+			<location>C:/Users/atara/git/arkanoid/ass6/definitions</location>
+		</link>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<location>C:/Users/atara/git/arkanoid/ass6/resources</location>
+		</link>
+	</linkedResources>
 </projectDescription>
